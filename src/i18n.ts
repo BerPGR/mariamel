@@ -22,6 +22,11 @@ export const i18n = createI18n({
                 animation: 'Animação',
                 illustration: 'Ilustrações',
                 about: 'Sobre Mim'
+            },
+            section: {
+                about1: 'Bom dia! Eu sou Maria Clara - Maria Mel - Sou uma designer e animadora 2D, formada em Design de Animação na faculdade IESB em brasília. E Design UX, na Escola Britânica de Artes Criativas & Tecnológicas (EBAC).',
+                about2: 'Sou apaixonada em trazer vida a personagens incríveis e fantásticos.',
+                about3: 'E adoro trazer um design prático e criativo para jogos divertidos!'
             }
         },
         en: {
@@ -41,6 +46,11 @@ export const i18n = createI18n({
                 animation: 'Animation',
                 illustration: 'Illustrations',
                 about: 'About Me'
+            },
+            section: {
+                about1: 'Hello! I am Maria Clara - Maria Mel - I’m a designer and 2D animator, graduated in Animation Design from IESB college located in brasília Brazil. And Design UX, from Escola Britânica de Artes Criativas & Tecnológicas (EBAC).',
+                about2: 'I am passionate about bringing incredible and fantastic characters to life.',
+                about3: 'And I love bringing a practical and creative design to fun games!'
             }
         }
     }

@@ -8,7 +8,7 @@
       <button class="btn btn-primary btn-lg">{{ $t('buttons.character') }}</button>
       <button class="btn btn-primary btn-lg">{{ $t('buttons.animation') }}</button>
       <button class="btn btn-primary btn-lg">{{ $t('buttons.illustration') }}</button>
-      <button class="btn btn-primary btn-lg">{{ $t('buttons.about') }}</button>
+      <router-link class="btn btn-primary btn-lg" to="/about">{{ $t('buttons.about') }}</router-link>
     </div>
     <div class="navbar-end">
       <div class="flex gap-2">
