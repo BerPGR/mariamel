@@ -1,6 +1,6 @@
 <template>
-    <div class="w-full min-h-screen flex flex-col justify-between items-start">
-        <router-link class="btn btn-secondary m-6" to="/">{{ $t('back') }}</router-link>
+    <div class="w-full min-h-[calc(100vh-6rem)] flex flex-col justify-between items-start">
+        <p></p>
         <div class="flex items-center justify-center bg-[#B3D5F4] gap-40 p-16">
             <img src="../../public/maria.svg" alt="">
             <div class="flex flex-col gap-10 p-10">

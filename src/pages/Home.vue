@@ -1,6 +1,5 @@
 <template>
-  <div class="w-full min-h-screen bg-base-100 border-2">
-    <Header />
+  <div class="w-full min-h-[calc(100vh-6rem)] bg-base-100">
     <div class="h-full border-2 border-[#4E3094] rounded-md relative mx-10 mt-4">
       <img src="../../public/Rectangle 7.svg" class='w-full h-160 object-cover rounded-md' />
       <h1 class="text-9xl absolute font-serif italic text-indigo-900 top-20 left-40">Maria Mel</h1>
@@ -16,6 +15,3 @@
   </div>
 </template>
 
-<script setup lang="ts">
-import Header from '../components/Header.vue';
-</script>
