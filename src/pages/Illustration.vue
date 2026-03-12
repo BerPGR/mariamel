@@ -32,7 +32,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 // Substitua pelos links das suas imagens reais
 const images = [
   '../../public/image 1.svg',
