@@ -39,7 +39,7 @@ export const i18n = createI18n({
             }
         },
         en: {
-            hello: "Hey, what's up?",
+            hello: "Hello there!",
             back: 'Back',
             follow: 'Follow me in other social medias:',
             about: 'About Me',
