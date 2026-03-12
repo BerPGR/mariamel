@@ -33,16 +33,23 @@
 </template>
 
 <script setup lang="ts">
-// Substitua pelos links das suas imagens reais
+import image1 from '../../public/image 1.svg';
+import image2 from '../../public/image 2.svg';
+import image3 from '../../public/image 3.svg';
+import image4 from '../../public/image 4.svg';
+import image5 from '../../public/image 5.svg';
+import image6 from '../../public/image 6.svg';
+import image7 from '../../public/image 7.svg';
+import image8 from '../../public/image 8.svg';
 const images = [
-  '../../public/image 1.svg',
-  '../../public/image 2.svg',
-  '../../public/image 3.svg',
-  '../../public/image 4.svg',
-  '../../public/image 5.svg',
-  '../../public/image 6.svg',
-  '../../public/image 7.svg',
-  '../../public/image 8.svg'
+  image1,
+  image2,
+  image3,
+  image4,
+  image5,
+  image6,
+  image7,
+  image8
 ];
 </script>
 
