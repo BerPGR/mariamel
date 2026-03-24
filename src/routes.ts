@@ -11,7 +11,7 @@ const routes = [
   { path: '/about', component: About },
   { path: '/uxui', component: Uxui },
   { path: '/illustration', component: Illustration },
-  { path: '/characters', component: Character}
+  { path: '/characters', component: Character }
 ];
 
 export const router = createRouter({
