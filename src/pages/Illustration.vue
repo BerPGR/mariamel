@@ -46,7 +46,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const carouselRef = ref(null);
+const carouselRef = ref<HTMLElement | null>(null);
 import image1 from '../../public/image 1.svg';
 import image2 from '../../public/image 2.svg';
 import image3 from '../../public/image 3.svg';

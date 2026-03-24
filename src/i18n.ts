@@ -36,6 +36,14 @@ export const i18n = createI18n({
                 section22: 'Damas',
                 section23: 'Sudoku',
                 obs: 'Por ser um projeto de design não tem a possibilidade de jogar :('
+            },
+            characters: {
+                hdnDescription: "Herói de ninguém, é o projeto de animação do Studio Triunfo Animation. Estou participando como designer de personagem e animadora 2D.",
+                inDev: 'Como o projeto ainda está em desenvolvimento, ainda há muito para autalizar nesta página! Por isso salve meu site para ficar por dentro ;)',
+                follow: 'E siga nosso projeto! Apenas aperte em Herói de Ninguém',
+                hero: 'HERÓI',
+                modelsheet1: "O modelsheet da personagem chica está sendo desenvolvida por Luli Bufano",
+                modelsheet2: "Acompanhe o trabalho delu aqui!"
             }
         },
         en: {
@@ -69,6 +77,14 @@ export const i18n = createI18n({
                 section22: 'Checkers',
                 section23: 'Sudoku',
                 obs: "Since it's a design project, there's no playable fuctions :("
+            },
+            characters: {
+                hdnDescription: "Hero of none, t his is an animation project by Studio Triunfo Animation. I am participating as a character designer and 2D animator.",
+                inDev: "Since the project is still under development, there's still a lot to update on this page! So save my site to stay informed ;)",
+                follow: 'And follow our project! Just click on Hero of None.',
+                hero: 'HERO',
+                modelsheet1: "The model sheet for the character Chica is being developed by Luli Bufano",
+                modelsheet2: "Acompanhe o trabalho delu aqui!"
             }
         }
     }

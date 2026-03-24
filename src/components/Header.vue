@@ -11,7 +11,7 @@
           </label>
           <ul tabindex="0" class="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 border border-base-300">
             <li><router-link to="/uxui">{{ $t('buttons.ux') }}</router-link></li>
-            <li><router-link to="/character">{{ $t('buttons.character') }}</router-link></li>
+            <li><router-link to="/characters">{{ $t('buttons.character') }}</router-link></li>
             <li><router-link to="/animation">{{ $t('buttons.animation') }}</router-link></li>
             <li><router-link to="/illustration">{{ $t('buttons.illustration') }}</router-link></li>
             <li><router-link to="/about">{{ $t('buttons.about') }}</router-link></li>
