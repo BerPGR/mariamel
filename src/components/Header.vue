@@ -28,7 +28,7 @@
 
       <div class="navbar-center hidden lg:flex items-center gap-4 xl:gap-10">
         <router-link :class="['btn btn-lg', route.path === '/uxui' ? 'btn-secondary' : 'btn-primary' ]" to="/uxui">{{ $t('buttons.ux') }}</router-link>
-        <router-link :class="['btn btn-lg', route.path === '/character' ? 'btn-secondary' : 'btn-primary' ]" to="/character">{{ $t('buttons.character') }}</router-link>
+        <router-link :class="['btn btn-lg', route.path === '/character' ? 'btn-secondary' : 'btn-primary' ]" to="/characters">{{ $t('buttons.character') }}</router-link>
         <router-link :class="['btn btn-lg', route.path === '/animation' ? 'btn-secondary' : 'btn-primary' ]" to="/animation">{{ $t('buttons.animation') }}</router-link>
         <router-link :class="['btn btn-lg', route.path === '/illustration' ? 'btn-secondary' : 'btn-primary' ]" to="/illustration">{{ $t('buttons.illustration') }}</router-link>
         <router-link :class="['btn btn-lg', route.path === '/about' ? 'btn-secondary' : 'btn-primary' ]" to="/about">{{ $t('buttons.about') }}</router-link>
