@@ -44,6 +44,12 @@ export const i18n = createI18n({
                 hero: 'HERÓI',
                 modelsheet1: "O modelsheet da personagem chica está sendo desenvolvida por Luli Bufano",
                 modelsheet2: "Acompanhe o trabalho delu aqui!"
+            },
+            animation: {
+                title: "Uma Nova Luz ás Sombras",
+                p1: "Uma Nova Luz ás Sombras foi um projeto da faculdade do meu último semestre. Na qual eu e meu grupo, tivemos que mostrar o que aprendemos em todos os semetres.",
+                p2: "Nos dedicamos e apresentamos o melhor projeto de turma.",
+                p3: "Essa é um história que conta sobre suprerar preconceitos e redenção. As vezes o que achamos ser ruim, sem nem mesmo conhecer o que está na nossa frente, pode não ser o verdadeiro mal."
             }
         },
         en: {
@@ -85,7 +91,13 @@ export const i18n = createI18n({
                 hero: 'HERO',
                 modelsheet1: "The model sheet for the character Chica is being developed by Luli Bufano",
                 modelsheet2: "Acompanhe o trabalho delu aqui!"
-            }
+            },
+            animation: {
+                title: "A New Light for the Shadows",
+                p1: "Uma Nova Luz ás Sombras was a college project of my final semester. In which my group and I had to show what we learned in all the semesters.",
+                p2: "We dedicated ourselves and presented the best project in the class.",
+                p3: "This is a story about overcoming prejudice and redemption. Sometimes what we think is bad, without even knowing what's in front of us, may not be the real evil."
+            },
         }
     }
 })
