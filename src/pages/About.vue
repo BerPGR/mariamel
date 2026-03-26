@@ -8,7 +8,7 @@
             <img src="../../public/maria.svg" alt="Maria" class="w-48 md:w-64 lg:w-auto h-auto" />
 
             <div class="flex flex-col gap-6 md:gap-10 p-2 md:p-10 max-w-2xl">
-                <h1 class="text-4xl md:text-5xl text-center md:text-left font-bold">
+                <h1 class="text-4xl md:text-5xl text-center md:text-left font-bold font-corpo">
                     {{ $t('about') }}
                 </h1>
                 

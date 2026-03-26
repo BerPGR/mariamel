@@ -2,3 +2,17 @@
 @plugin "daisyui" {
   themes: light --default, emerald;
 }
+
+@font-face {
+  font-family: 'body';
+  src: url('./assets/fonts/Outfit-VariableFont_wght.ttf') format('.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'title';
+  src: url('./assets/fonts/PlaywriteUSTrad-VariableFont_wght.ttf') format('.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

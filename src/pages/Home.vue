@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full min-h-[calc(100vh-6rem)] bg-base-100 pb-10">
+  <div class="w-full min-h-[calc(100vh-6rem)] bg-base-100 pb-10 font-body">
     <div class="h-full border-2 border-[#4E3094] rounded-md relative mx-4 md:mx-10 mt-4 overflow-hidden">
       
       <div class="relative w-full h-64 md:h-96 lg:h-[40rem]">
@@ -8,7 +8,7 @@
           class="w-full h-full object-cover rounded-t-[calc(0.375rem-2px)]" 
         />
         
-        <h1 class="absolute font-serif italic text-indigo-900 
+        <h1 class="absolute font-corpo italic text-indigo-900 
                    top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2
                    md:top-20 md:left-20 md:translate-x-0 md:translate-y-0
                    text-5xl sm:text-7xl md:text-8xl lg:text-9xl 
